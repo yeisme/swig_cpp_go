@@ -1,0 +1,15 @@
+.cache/
+build/
+
+# binary files
+*.a
+*.so
+*.dll
+*.lib
+*.dylib
+*.o
+*.lo
+*.exe
+*.out
+
+pkg/
